@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Masum rahman hasan's GitHub stats](https://github-readme-stats.zohan.tech/api?username=Masumrahmanhasan&show_icons=true&locale=en)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Masumrahmanhasan?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **Masumrahmanhasan/Masumrahmanhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

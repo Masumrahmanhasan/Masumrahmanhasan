@@ -1,11 +1,19 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Masum%20Rahman%20Hasan&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Masum%20Rahman%20Hasan&descAlignY=51&descAlign=62](https://github-wrapped.com/u/Masumrahmanhasan)" width="100%"/>
 
   ## 👨‍💻 Full Stack Developer | Freelancer | Open Source Enthusiast
 
   [![Hire Me](https://img.shields.io/badge/Hire%20Me-Click%20Here-success?style=for-the-badge&logo=upwork)](mailto:your-email@example.com) 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=google-chrome)](https://your-portfolio-link.com)
+
+  ### 🚀 My 2025 GitHub Wrapped
+
+<div align="center">
+
+[![View My GitHub Wrapped](https://img.shields.io/badge/View%20My%202025%20Wrapped-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://githubwrapped.xyz/Masumrahmanhasan)
+
+</div>
 
   ---
   

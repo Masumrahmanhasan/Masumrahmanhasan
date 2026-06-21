@@ -10,7 +10,7 @@
     <a href="mailto:your-email@example.com">
       <img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire Me" />
     </a>
-    <a href="[https://your-portfolio-link.com](https://masumrahmanhasan-personal-portfolio.vercel.app)">
+    <a href="https://masumrahmanhasan-personal-portfolio.vercel.app" targe="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://githubwrapped.xyz/Masumrahmanhasan">
